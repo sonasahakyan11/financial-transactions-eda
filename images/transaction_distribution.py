@@ -2,6 +2,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from matplotlib.ticker import StrMethodFormatter
 
+
 plt.style.use('seaborn-v0_8')
 # Read data
 transactions_data = pd.read_csv('data/transactions_data.csv')
