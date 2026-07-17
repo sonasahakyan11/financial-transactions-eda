@@ -9,6 +9,14 @@ The analysis focuses on:
 - Merchant location performance
 - Business insights derived from transaction data
 
+## Dataset
+
+The dataset used in this project is available on Kaggle:
+
+[https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+
+Download the CSV file and place it in the `data/` folder before running the project.
+
 ## Transaction Amount Distribution
 
 ### Business Question
